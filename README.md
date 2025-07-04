@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+Hi 👋, I am Yuan Tian. I'm currently a Ph.D. candidate in the Department of Computer Science at Purdue University. You could check my [personal website](https://yuan-tian.com/) for more information about my work.
+
+For open-sourced repositories, if you have any questions, please feel free to contact me at tian211@purdue.edu.
+
 <!--
 **magic-YuanTian/magic-YuanTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
